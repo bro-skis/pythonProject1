@@ -1,0 +1,6 @@
+C:\Users\d\AppData\Local\Programs\Python\Python37\python.exe C:/Users/d/AppData/Roaming/JetBrains/PyCharmCE2021.3/scratches/scratch.py
+please enter your name:
+silas
+Hi silas, welcome to python!
+
+Process finished with exit code 0

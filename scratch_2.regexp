@@ -1,0 +1,5 @@
+print('please enter two numbers, in two seperate lines:' )
+num1 = input()
+num2 = input()
+sum = num1 + num2
+print(sum)
